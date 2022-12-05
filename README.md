@@ -1,9 +1,11 @@
 # BASED IN TUTORIAL
 https://www.youtube.com/watch?v=giywdKF4SXY
 
-## HOW TO RUN EXAMPLE 1
+## HOW TO RUN EXAMPLE 1 and 2
 npm test src\test\mocks-fundamentals\numberFacts\numberFacts.test.js -- --watch
 
+## HOW TO RUN EXAMPLE 3
+npm test src\test\mocks-fundamentals\numberFacts\service\service.test.js -- --watch
 
 # OTHER EXECS TYPES --------------------------------------------------------------
 
